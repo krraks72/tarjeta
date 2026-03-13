@@ -62,6 +62,10 @@ Exportar a Excel
 
 </div>
 
+<div class="mb-4">
+<a href="admin_contenido.php" class="bg-blue-600 text-white px-4 py-2 rounded">Administrar contenido del sitio</a>
+</div>
+
 <div class="bg-white p-6 rounded shadow">
 
 <table id="tabla"
